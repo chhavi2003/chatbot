@@ -1,0 +1,9 @@
+botbuilder-integration-aiohttp
+botbuilder-dialogs
+botbuilder-ai
+datatypes-date-time
+botbuilder_schema
+requests
+aiohttp
+botbuilder
+botbuilder-core
